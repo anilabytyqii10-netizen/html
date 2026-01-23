@@ -1,0 +1,30 @@
+.Div1{
+    border: 10px solid gray;
+    height: 650px;
+    width: 450px;
+    border-width: 15px 10px
+
+}
+#Div2{
+   border: 1px solid  black;
+   height: 300px;
+   width: 430px;
+   margin: 0px 0px 0px 10px;
+   border-width: 0px 0px 1px 0px;
+
+}
+#p1{
+    border: 3px solid gray;
+    padding: 5px;
+    border-width: 0px 0px 0px 3px;
+}
+#h5{
+    color: purple;
+}
+#Div3{
+    border: 0px solid black;
+    height: 300px;
+    width: 430px;
+    margin: 0px 0px 0px 10px;
+    
+}
