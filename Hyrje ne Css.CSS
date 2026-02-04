@@ -1,0 +1,28 @@
+/*Descendet selector*/
+#div1 .p1{
+    color: yellow;
+}
+/*Child selector*/
+#div2 > .p2{
+    color: blue;
+}
+/*Adjacent sibling selector*/
+#div3 + .p3{
+    color: green;
+}
+/*General sibling selector*/
+#div4 ~ .p4{
+    color: blue;
+}
+input[type="text"]{
+    color: red;
+    background-color: yellow;
+}
+/*
+input{
+color: red;
+background-color: yellow;
+}*/
+#span{
+    color: red;
+}

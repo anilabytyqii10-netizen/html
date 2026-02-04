@@ -1,0 +1,48 @@
+#p1{/*Type selector*/
+    color: blue;
+    background: red;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;  
+    
+}
+
+#idh4{/*id selector*/
+    color: red;
+
+}
+h4 #idh4{
+    background: blue;
+}
+.classp2{
+    color: white;
+}
+.classp2{
+    background: red;
+    font-size: 20px;
+}
+div p{
+    font-size: 50px;
+    color: red;
+}
+ol>li{
+    font-size: 40px;
+    color: red;
+}
+input[type="text"] {/*atribut selector*/
+    color: violet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    input[ type="password"]{ 
+        color: red;
+    }
+    #idp4,#idp5,#idp6{
+        color: green;
+    }
+    #foto1{
+        width: 100px;
+        height: 100px;
+    }
+    p{
+        color: blue;
+    }

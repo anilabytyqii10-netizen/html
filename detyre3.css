@@ -1,0 +1,22 @@
+#div{
+    background-color: black;
+    border: 1px solid black;
+    float: left;
+    width: 500px;
+    height: 100vh;
+    
+}
+#img3{
+    float:right;
+    margin-right: 20px;
+}
+#div h6{
+    color: white;
+    clear:right;
+    margin-left: 80%;
+}
+#div h4{
+    color: white;
+    clear:right;
+    margin-left: 80%;
+}

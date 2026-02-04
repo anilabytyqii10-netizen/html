@@ -1,0 +1,43 @@
+#button1{
+    background-color: rgb(30, 151, 192);
+    color: white;
+    padding: 17px;
+    font-weight: bolder;
+    border: none;
+}
+#button2{
+    background: green;
+    color: white;
+    padding: 17px;
+    border: none;
+    font-weight: bolder;
+}
+#button3{
+    background: lightblue;
+    color: white;
+    padding: 17px;
+    border: none;
+    font-weight: bolder;
+}
+#button4{
+     background: orange;
+    color: white;
+    padding: 17px;
+    border: none;
+    font-weight: bolder;
+}
+#button5{
+     background: red;
+    color: white;
+    padding: 17px;
+    border: none;
+    font-weight: bolder;
+}
+#button6{
+    background: transparent;
+    color: rgb(30, 151, 192);
+    padding: 17px;
+    border-radius: 4px;
+    font-weight: bolder;
+}
+
